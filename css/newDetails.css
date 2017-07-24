@@ -1,0 +1,225 @@
+body,div,p,span,ul,li,i{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-style: normal;
+}
+a{
+	text-decoration: none;
+}
+.top{
+	width: 100%;
+	height: 100px;
+	background-color: #BA97CF;
+}
+.topi{
+	width: 1203px;
+	height: 100px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.lg{
+	width: 211px;
+	height:65px;
+	background: url(../img/mushiwei/logo.jpg)no-repeat left center;
+	padding-top: 15px;
+	display: inline-block;
+}
+.topnav{
+	width: 657px;
+	height: 21px;
+	float: right;
+	line-height: 95px;
+}
+.topnav ul li{
+	font-size: 14px;
+	color: #fff;
+	float: left;
+	margin-left: 50px;
+}
+.news{
+	width: 82px;
+	height: 95px;
+	border-bottom: 5px solid #9F51A9;
+}
+.news i{
+	padding-left: 15px;
+}
+.wpap{
+	width: 1920px;
+	height: 616px;
+	background: url(../img/mushiwei/wallpaper.jpg)no-repeat left center;
+}
+
+.consbox{
+	width: 1124px;
+	height: auto;
+	margin: 0 auto;
+	font-size: 13px;
+	text-align: center;
+	color: #B9B9B9;
+}
+.consbox>h3{
+	font-size: 18px;
+	color: #363636;
+	font-weight: normal;
+	text-align: center;
+	margin-top: 37px;
+}
+.consbox>hr{
+	width: 100%;
+	border: 1px dashed #D4D4D4;
+	margin-top: 33px;
+	margin-bottom: 20px;
+}
+.consbox i{
+	font-size: 13px;
+	text-align: center;
+	margin-left: 30px;
+	color: #B9B9B9;
+}
+.consbox em{
+	font-style: normal;
+	font-size: 13px;
+	color: #363636;
+	margin-top: 9px;
+	text-align: left;
+	display: block;
+}
+.consbox>img{
+	margin-top: 5px;
+}
+.consbox>h4{
+	font-weight: normal;
+	font-size: 13px;
+	color: #363636;
+	text-align: left;
+	margin-top: 2px;
+}
+.consbox>h5{
+	font-weight: normal;
+	font-size: 13px;
+	color: #363636;
+	text-align: left;
+	text-indent: 2em;
+	margin-top: 32px;
+}
+.consbox p{
+	text-align: left;
+	color: #363636;
+	margin-top: 8px;
+}
+.cons_bottom{
+	width: 1124px;
+	height: auto;
+	margin: 0 auto;
+	overflow: hidden;
+	margin-bottom: 35px;
+}
+.cons_bottom p{
+	font-size: 13px;
+	color: #B38DCA;
+	text-align:left;
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.cons_bottom p1{
+	font-size: 13px;
+	text-align: right;
+	color:#363636;
+	float: right;
+	margin-top: 20px;
+}
+
+
+.bottom{
+	width: 100%;
+	height: 174px;
+	background-color: #B38DCA;
+}
+.foot{
+	width: 1309px;
+	height: 139px;
+	margin: 0 auto;
+}
+.footer{
+	width: 793px;
+	height: 139px;
+}
+.footer img{
+	width: 136px;
+	height: 131px;
+	margin-top: 15px;
+	float: left;
+	display: inline-block;
+	vertical-align: middle;
+}
+.footer .prompt{
+	width: 106px;
+	height: 27px;
+	border: 1px solid #fff;
+	font-size: 15px;
+	text-align: center;
+	color: #fff;
+	float: left;
+	margin-top: 45px;
+	margin-left: 18px;
+}
+.footcon{
+	width: 640px;
+	height: 90px;
+	float: left;
+}
+.footnav{
+	width: 700px;
+	height: 17px;
+	float: left;
+}
+.footnav ul{
+	margin-left: 8px;
+	margin-top: 15px;
+}
+.footnav ul li{
+	width: 70px;
+	height: 17px;
+	font-size: 15px;
+	color: #fff;
+	border-right: 1px solid #fff;
+	float: left;
+	padding-left: 10px;
+}
+.footnav ul li:last-child{
+	border: none;
+}
+.copyright{
+	width: 635px;
+	font-size: 15px;
+	color: #fff;
+	float: left;
+	margin-top: 25px;
+	margin-left: 17px;
+}
+.copyright i{
+	font-variant: small-caps;
+}
+
+.coninfor{
+	width: 422px;
+	height: 62px;
+	float: right;
+	margin-top: -60px;
+}
+.infortel img{
+	float: left;
+	padding-right: 15px;
+}
+.infortel p{
+	font-size: 25px;
+	color: #fff;
+	float: left;
+}
+.inforpic  img{
+	padding-left: 30px;
+	margin-top: -5px;
+}

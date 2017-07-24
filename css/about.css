@@ -1,0 +1,233 @@
+body,div,p,h1,h2,h3,span,i,ul,li{
+	margin: 0;
+	padding: 0;
+	list-style:none;
+	font-style: normal;
+}
+a{
+	text-decoration: none;
+}
+.top{
+	width: 100%;
+	height: 100px;
+	background-color: #BA97CF;
+}
+.topi{
+	width: 1203px;
+	height: 100px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.lg{
+	width: 211px;
+	height:65px;
+	background: url(../img/mushiwei/logo.jpg)no-repeat left center;
+	padding-top: 15px;
+	display: inline-block;
+}
+.topnav{
+	width: 650px;
+	height: 21px;
+	display: inline;
+}
+.topnav ul{
+	float: right;
+	padding-top: 40px;
+}
+.topnav ul li{
+	width: 61px;
+	font-size: 14px;
+	color: #fff;
+	float: left;
+	margin-left: 50px;
+}
+.pro{
+	width: 84px;
+	height: 6px;
+	background-color: #9F51A9; 
+	float: right;
+	margin-top: 93px;
+	margin-right: -438px;
+}
+.wpap{
+	width: 1920px;
+	height: 616px;
+	background: url(../img/mushiwei/wallpaper.jpg)no-repeat left center;
+}
+.com{
+	width: 915px;
+	height: 790px;
+	margin: 0 auto;
+}
+.company{
+	width: 910px;
+	height: 593px;
+	margin: 0 auto;
+	background:url(../img/mushiwei/ww.png)no-repeat;
+	margin-top: 93px;
+	border-radius: 10px;
+	position: absolute;
+	z-index: 1;
+}
+
+.cpcon{
+	width: 228px;
+	height: 427px;
+	margin-top:111px;
+	padding-left: 65px;
+	float: left;
+}
+.cpcon h4,h3,p{
+	text-align: center;
+} 
+.cpcon p{
+	font-size: 15px;
+	padding-top: 25px;
+	color: #939093;
+}
+.cpcon h3{
+	color: #363636;
+}
+.cpcon h4{
+	color: #363636;
+}
+.cpcon img{
+	margin-left: 55px;
+}
+
+.texts{
+	width: 319px;
+	height:406px;
+	float: left;
+	margin-left: 205px;
+	margin-top:100px; 
+}
+.texts>p{
+	font-size: 15px;
+	text-align:left;
+	margin-top: 15px;
+}
+.sub{
+	width: 319px;
+	height: 29px;
+	border: 1px solid #D8C6D5;
+	border-radius: 5px;
+	background:#FAF1F7;
+	
+}
+.texts input{
+	width: 319px;
+	height: 27px;
+	border: 1px solid #D8C6D5;
+	border-radius: 5px;
+	margin-top: 15px;
+	padding-left: 7px;
+	font-size: 15px;
+	color: #D5D4D4;
+}
+.textcon{
+	margin-bottom:15px; 
+}
+textarea{
+	width: 319px;
+	height: 193px;
+	border: 1px solid #D8C6D5;
+	border-radius: 5px;
+	resize:none;
+	font-size: 15px;
+	color: #D5D4D4;
+	padding-left: 7px;
+	padding-top: 10px;
+}
+
+.bottom{
+	width: 100%;
+	height: 174px;
+	background-color: #B38DCA;
+	margin-top: 20px;
+}
+.foot{
+	width: 1309px;
+	height: 139px;
+	margin: 0 auto;
+}
+.footer{
+	width: 793px;
+	height: 139px;
+}
+.footer img{
+	width: 136px;
+	height: 131px;
+	margin-top: 15px;
+	float: left;
+	display: inline-block;
+	vertical-align: middle;
+}
+.footer .prompt{
+	width: 106px;
+	height: 27px;
+	border: 1px solid #fff;
+	font-size: 15px;
+	text-align: center;
+	color: #fff;
+	float: left;
+	margin-top: 45px;
+	margin-left: 18px;
+}
+.footcon{
+	width: 640px;
+	height: 90px;
+	float: left;
+}
+.footnav{
+	width: 700px;
+	height: 17px;
+	float: left;
+}
+.footnav ul{
+	margin-left: 8px;
+	margin-top: 15px;
+}
+.footnav ul li{
+	width: 70px;
+	height: 17px;
+	font-size: 15px;
+	color: #fff;
+	border-right: 1px solid #fff;
+	float: left;
+	padding-left: 10px;
+}
+.footnav ul li:last-child{
+	border: none;
+}
+.copyright{
+	width: 635px;
+	font-size: 15px;
+	color: #fff;
+	float: left;
+	margin-top: 25px;
+	margin-left: 17px;
+}
+.copyright i{
+	font-variant: small-caps;
+}
+
+.coninfor{
+	width: 422px;
+	height: 62px;
+	float: right;
+	margin-top: -60px;
+}
+.infortel img{
+	float: left;
+	padding-right: 15px;
+}
+.infortel p{
+	font-size: 25px;
+	color: #fff;
+	float: left;
+}
+.inforpic  img{
+	padding-left: 30px;
+	margin-top: -5px;
+}

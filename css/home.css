@@ -1,0 +1,581 @@
+body,div,p,span,ul,li,i,h3{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-style: normal;
+}
+a{
+	text-decoration: none;
+}
+.top{
+	width: 100%;
+	height: 100px;
+	background-color: #BA97CF;
+}
+.topi{
+	width: 1203px;
+	height: 100px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.lg{
+	width: 211px;
+	height:65px;
+	background: url(../img/mushiwei/logo.jpg)no-repeat left center;
+	padding-top: 15px;
+	display: inline-block;
+}
+.topnav{
+	width: 657px;
+	height: 21px;
+	float: right;
+	line-height: 95px;
+}
+.topnav ul li{
+	font-size: 14px;
+	color: #fff;
+	float: left;
+	margin-left: 50px;
+}
+.home{
+	width: 77px;
+	height: 96px;
+	border-bottom: 4px solid #9F51A9;
+}
+.home i{
+	padding-left: 15px;
+}
+.wpap{
+	width: 1920px;
+	height: 616px;
+	background: url(../img/mushiwei/wallpaper.jpg)no-repeat left center;
+}
+
+.conshow{
+	width: 960px;
+	height: 525px;
+	margin: 0 auto;
+	margin-top: 48px;
+}
+.show_up{
+	width: 278px;
+	height: 70px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.show_text{
+	width: 195px;
+	height: 70px;
+	float: left;
+}
+.show_text p{
+	font-size: 28px;
+	float: right;
+}
+.show_text div{
+	font-size: 30px;
+	float: right;
+}
+.show_up img{
+	width: 69px;
+	height: 59px;
+	float: left;
+	padding-top: 7px;
+	padding-left: 14px;
+}
+.shower{
+	width: 981px;
+	height: 404px;
+	margin-top: 50px;
+	overflow: hidden;
+}
+.shower img{
+	width: 302px;
+	height: 404px;
+	float: left;
+	padding-right: 25px;
+}
+.inforbox{
+	width: 100%;
+	height: 399px;
+	background: #B48ECB;
+	margin-top: 62px;
+}
+.infor{
+	width: 1115px;
+	height: 351px;
+	margin: 0 auto;
+}
+.infor_up{
+	width: 265px;
+	height: 68px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.infor_up img{
+	width: 91px;
+	height: 75px;
+	padding-top: 5px;
+}
+.infor_text{
+	width: 172px;
+	height: 68px;
+	float: left;
+}
+.infor_text p{
+	font-size: 28px;
+	color: #fff;
+	float: right;
+}
+.infor_text2{
+	width: 159px;
+	height: 25px;
+	float: right;
+	padding-top: 5px;
+}
+.infor_text2 i{
+	font-size: 23px;
+	color: #fff;
+	padding-right: 10px;
+}
+.infor_down{
+	width: 1118px;
+	height: 230px;
+	margin-top: 33px;
+}
+.infor_left{
+	width: 673px;
+	height: 230px;
+	background: #fff;
+	overflow: hidden;
+	float: left;
+}
+.infor_left img{
+	width: 306px;
+	height: 230px;
+	float: left;
+}
+.new{
+	width: 314px;
+	height: 204px;
+}
+.news_up{
+	width: 308px;
+	height: 57px;
+	border-bottom: 1px dashed #CAB1DA;
+	float: left;
+	margin-left: 28px;
+	margin-top: 13px;
+}
+.news_up span{
+	font-size: 12px;
+	color: #6A6A6A;
+	padding-right: 5px;
+}
+.news_up p{
+	font-size: 17px;
+	text-indent: 3px;
+	margin-top: 5px;
+}
+.new_down{
+	width: 295px;
+	height: 122px;
+	float: left;
+	margin-left: 25px;
+}
+.new_down p{
+	width: 276px;
+	height: 14px;
+	font-size: 12px;
+	margin-top: 8px;
+}
+.new_bottom{
+	width: 56px;
+	height: 24px;
+	background: #B38DCA;
+	float: left;
+	margin-left: 25px;
+}
+.new_bottom p{
+	color: #fff;
+	font-size: 12px;
+	line-height: 24px;
+	padding-left: 5px;
+}
+.infor_right{
+	width: 415px;
+	height: 232px;
+	float: right;
+}
+.new1{
+	width: 411px;
+	height: 58px;
+	background: #B48ECB;
+}
+.new1_left{
+	width: 68px;
+	height: 59px;
+	border-right: 1px solid #fff;
+	float: left;
+	margin-left: 5px;
+}
+.new1_left div{
+	width: 47px;
+	height: 39px;
+	float: left;
+	color: #fff;
+	font-size: 40px;
+	line-height: 35px;
+}
+.new1_left span{
+	font-size: 13px;
+	color: #fff;
+	float: left;
+}
+.new1_right{
+	width: 311px;
+	height: 52px;
+	float: left;
+
+	line-height: 13px;
+}
+.new1_right p{
+	width: 300px;
+	height: 20px;
+	color: #fff;
+	margin-left: 20px;
+	margin-top: 6px;
+}
+.new1_right span{
+	width: 312px;
+	font-size: 12px;
+	color: #fff;
+	display: inline-block;
+	margin-left: 16px;
+}
+.new2{
+	width: 411px;
+	height: 58px;
+	background: #B48ECB;
+	margin-top: 28px;
+}
+.new2_left{
+	width: 68px;
+	height: 59px;
+	border-right: 1px solid #fff;
+	float: left;
+	margin-left: 5px;
+}
+.new2_left div{
+	width: 47px;
+	height: 39px;
+	float: left;
+	color: #fff;
+	font-size: 40px;
+	line-height: 35px;
+}
+.new2_left span{
+	font-size: 13px;
+	color: #fff;
+	float: left;
+}
+.new2_right{
+	width: 311px;
+	height: 52px;
+	float: left;
+
+	line-height: 13px;
+}
+.new2_right p{
+	width: 300px;
+	height: 20px;
+	color: #fff;
+	margin-left: 20px;
+	margin-top: 6px;
+}
+.new2_right span{
+	width: 312px;
+	font-size: 12px;
+	color: #fff;
+	display: inline-block;
+	margin-left: 16px;
+}
+.new3{
+	width: 411px;
+	height: 58px;
+	background: #B48ECB;
+	margin-top: 28px;
+}
+.new3_left{
+	width: 68px;
+	height: 59px;
+	border-right: 1px solid #fff;
+	float: left;
+	margin-left: 5px;
+}
+.new3_left div{
+	width: 47px;
+	height: 39px;
+	float: left;
+	color: #fff;
+	font-size: 40px;
+	line-height: 35px;
+}
+.new3_left span{
+	font-size: 13px;
+	color: #fff;
+	float: left;
+}
+.new3_right{
+	width: 311px;
+	height: 52px;
+	float: left;
+
+	line-height: 13px;
+}
+.new3_right p{
+	width: 300px;
+	height: 20px;
+	color: #fff;
+	margin-left: 20px;
+	margin-top: 6px;
+}
+.new3_right span{
+	width: 312px;
+	font-size: 12px;
+	color: #fff;
+	display: inline-block;
+	margin-left: 16px;
+}
+.brands{
+	width: 100%;
+	height: 577px;
+	background: #fff;
+}
+.branding{
+	width: 337px;
+	height: 66px;
+	margin:  0 auto;
+	padding-top: 45px;
+}
+.brandings{
+	float: left;
+}
+.brandings p{
+	font-size: 28px;
+	float: right;
+}
+.brandings2 i{
+	font-size: 30px;
+	line-height: 30px;
+}
+.branding img{
+	padding-top: 8px;
+	padding-left: 10px;
+}
+.brandcons{
+	width: 1130px;
+	height: 466px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.brandcons_left{
+	width: 500px;
+	height: 365px;
+	margin-top: 50px;
+	padding-top: 44px;
+	float: left;
+	overflow: hidden;
+}
+.collpic{
+	width: 443px;
+	height:254px; 
+	float: left;
+}
+.lgtit{
+	margin-left: 80px;
+	margin-top: 25px;
+	float: left;
+	margin-right: 5px;
+}
+.brandcons_left span{
+	font-size: 14px;
+	color: #A363CA;
+	float: left;
+	margin-top: 35px;
+}
+.brandcons_right{
+	width: 630px;
+	height: 364px;
+	float: left;
+	margin-top: 50px;
+}
+.brandcons_right img{
+	width: 568px;
+	height: 363px;
+	float: left;
+	position: relative;
+}
+.file{
+	width: 271px;
+	height: 364px;
+	background: #A168A9;
+	opacity: 0.8;
+	position: absolute;
+	color: #fff;
+}
+.file div {
+	margin-left: 25px;
+	padding-bottom: 5px;
+}
+.file i{
+	font-size: 17px;
+	padding-right: 10px;
+}
+.file h3{
+	padding-top: 55px;
+	padding-left: 25px;
+}
+.file p{
+	font-size: 12px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+}
+.file span{
+	width: 46px;
+	height: 24px;
+	border: 1px solid #fff;
+	font-size: 12px;
+	display: inline-block;
+	margin-left: 25px;
+	line-height: 24px;
+	padding-left: 5px;
+}
+.broadside1{
+	width: 56px;
+	height: 180px;
+	background: #A363CA;
+	float: right;
+}
+.broadside1 span{
+	margin-top: 34px;
+	line-height: 19px;
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+	display: block;
+}
+.broadside1 img{
+	width: 7px;
+	height:8px;
+	margin-left: 23px;
+	margin-top: 8px;
+}
+.broadside2{
+	width: 56px;
+	height: 178px;
+	background: #B38DCA;
+	float: right;
+	margin-top: 5px;
+}
+.broadside2 span{
+	margin-top: 44px;
+	line-height: 19px;
+	font-size: 17px;
+	color: #fff;
+	text-align: center;
+	display: block;
+}
+
+
+							/*底部*/
+.bottom{
+	width: 100%;
+	height: 174px;
+	background-color: #B38DCA;
+}
+.foot{
+	width: 1309px;
+	height: 139px;
+	margin: 0 auto;
+}
+.footer{
+	width: 793px;
+	height: 139px;
+}
+.footer img{
+	width: 136px;
+	height: 131px;
+	margin-top: 15px;
+	float: left;
+	display: inline-block;
+	vertical-align: middle;
+}
+.footer .prompt{
+	width: 106px;
+	height: 27px;
+	border: 1px solid #fff;
+	font-size: 15px;
+	text-align: center;
+	color: #fff;
+	float: left;
+	margin-top: 45px;
+	margin-left: 18px;
+}
+.footcon{
+	width: 640px;
+	height: 90px;
+	float: left;
+}
+.footnav{
+	width: 700px;
+	height: 17px;
+	float: left;
+}
+.footnav ul{
+	margin-left: 8px;
+	margin-top: 15px;
+}
+.footnav ul li{
+	width: 70px;
+	height: 17px;
+	font-size: 15px;
+	color: #fff;
+	border-right: 1px solid #fff;
+	float: left;
+	padding-left: 10px;
+}
+.footnav ul li:last-child{
+	border: none;
+}
+.copyright{
+	width: 635px;
+	font-size: 15px;
+	color: #fff;
+	float: left;
+	margin-top: 25px;
+	margin-left: 17px;
+}
+.copyright i{
+	font-variant: small-caps;
+}
+
+.coninfor{
+	width: 422px;
+	height: 62px;
+	float: right;
+	margin-top: -60px;
+}
+.infortel img{
+	float: left;
+	padding-right: 15px;
+}
+.infortel p{
+	font-size: 25px;
+	color: #fff;
+	float: left;
+}
+.inforpic  img{
+	padding-left: 30px;
+	margin-top: -5px;
+}
